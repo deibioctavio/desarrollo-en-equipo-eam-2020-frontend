@@ -22,7 +22,7 @@
     "angular-async-await": "^1.1.2",
     "angular2-flash-messages": "^3.0.1",
     "angularfire2": "^5.4.2",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "bootstrap": "^4.4.1",
     "firebase": "^7.10.0",
     "firebase-tools": "^7.14.0",
